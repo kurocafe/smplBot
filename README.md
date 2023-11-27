@@ -1,4 +1,4 @@
 # ディスコードボットのサンプルコード
 ## 使い方
 1.とりあえずダウンロード<br>
-2.`config.json`にTokenを入れる
+2.`config.json`にTOKENを入れる
